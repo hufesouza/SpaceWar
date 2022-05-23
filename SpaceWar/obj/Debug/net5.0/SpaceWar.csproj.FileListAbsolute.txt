@@ -1,0 +1,15 @@
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.csproj.AssemblyReference.cache
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.AssemblyInfoInputs.cache
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.AssemblyInfo.cs
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.csproj.CoreCompileInputs.cache
+/Users/hugof/Projects/SpaceWar/SpaceWar/bin/Debug/net5.0/SpaceWar.deps.json
+/Users/hugof/Projects/SpaceWar/SpaceWar/bin/Debug/net5.0/SpaceWar.runtimeconfig.json
+/Users/hugof/Projects/SpaceWar/SpaceWar/bin/Debug/net5.0/SpaceWar.runtimeconfig.dev.json
+/Users/hugof/Projects/SpaceWar/SpaceWar/bin/Debug/net5.0/SpaceWar.dll
+/Users/hugof/Projects/SpaceWar/SpaceWar/bin/Debug/net5.0/ref/SpaceWar.dll
+/Users/hugof/Projects/SpaceWar/SpaceWar/bin/Debug/net5.0/SpaceWar.pdb
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.dll
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/ref/SpaceWar.dll
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.pdb
+/Users/hugof/Projects/SpaceWar/SpaceWar/obj/Debug/net5.0/SpaceWar.genruntimeconfig.cache

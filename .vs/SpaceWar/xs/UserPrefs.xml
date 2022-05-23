@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B0F8F9FA-E755-4338-972F-E20176F543CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpaceWar/Enemy.cs">
+    <Files>
+      <File FileName="SpaceWar/Program.cs" Line="17" Column="1" />
+      <File FileName="SpaceWar/KeyboardController.cs" />
+      <File FileName="SpaceWar/Enemy.cs" Line="14" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceWar" expanded="True">
+            <Node name="SpaceWar" expanded="True">
+              <Node name="Enemy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SpaceWar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
